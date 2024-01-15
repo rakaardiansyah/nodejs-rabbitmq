@@ -1,0 +1,16 @@
+{
+  "name": "belajar-nodejs-rabbit",
+  "version": "1.0.0",
+  "description": "belajar rabbitmq nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/amqplib": "^0.10.4",
+    "amqplib": "^0.10.3"
+  },
+  "type": "module"
+}
